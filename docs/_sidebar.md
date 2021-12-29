@@ -4,3 +4,4 @@
 * **其他**
     * [Markdown](markdown.md "The is <title>")
     * [Plugins](plugins.md "Plugins")
+    * [TEST](test.md)
