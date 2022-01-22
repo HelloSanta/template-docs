@@ -1,10 +1,7 @@
 # 新增內容
-由於每種套版都有各自的網站架構，因此【新增文章】時，會依據套版而有所不同，例如：
-● 新遊記（Outing）包括：最新消息、戶外遊玩  
-![](/_image/content/GCGUCXt.png)
 
-● 家有小孩（Homekid）包括：新品介紹、親子地圖、文章專欄  
-![](/_image/content/OvSVJ0D.png)
+<div style="font-size:20px">● 新增內容路徑操作：</div>
 
-● 換物（Swap）包括：新知新訊、交換物品  
-![](/_image/content/Wf9MeNl.png)
+請先點選管理(1)，顯示第二層時點選新增內容（2），即可選擇您想要新增的文章內容（3）
+
+![](/_image/content/Q77L8bb.png)

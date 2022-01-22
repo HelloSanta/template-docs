@@ -1,11 +1,6 @@
 # 管理分類
-由於每種套版都有各自的網站架構，因此【管理分類】，會依據套版而有所不同，例如：
-● 新遊記（Outing）包括：最新消息、戶外遊玩  
-![](/_image/taxonomy/0WA3Ofc.png)
+<div style="font-size:20px">管理分類路徑操作：</div>
 
-● 家有小孩（Homekid）包括：文章專欄、新品介紹、親子地圖  
-![](/_image/taxonomy/P8jrvpy.png)
+請鮮點選管理(1)，顯示第二層時點選管理分類（2），即可選擇您想要管理的分類（3）！
 
-● 換物（Swap）包括：新知新訊、交換物品  
-![](/_image/taxonomy/sXrIoZR.png)
-
+![](/_image/taxonomy/Ms9XRlX.png)
